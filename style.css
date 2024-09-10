@@ -204,7 +204,7 @@ body.nav-active {
 .btn-primary,
 .btn-outline:is(:hover, :focus-visible) {
   background: #ffffff;
-  color: rgb(144, 83, 202);
+  color: #7d84ff;
 }
 
 .img-holder {
@@ -463,10 +463,10 @@ body.nav-active {
   margin-block: 24px 36px;
 }
 .all-btn {
-  border: 2px solid #9053ca;
+  border: 2px solid #7d84ff;
 }
 .all-btn:hover {
-  background-color: #9053ca;
+  background-color: #7d84ff;
   color: #ffffff;
 }
 .about-content h1 {
@@ -496,7 +496,7 @@ body.nav-active {
 .service-card .card-icon {
   width: 60px;
   height: 60px;
-  background-color: #9053ca;
+  background-color: #7d84ff;
   place-items: center;
   color: #ffffff;
   font-size: 2.5rem;
@@ -519,7 +519,7 @@ body.nav-active {
   align-items: center;
   gap: 4px;
   margin-block-start: 10px;
-  color: rgb(153, 92, 211);
+  color: #7d84ff;
   font-weight: var(--fw-700);
   transition: var(--transition-1);
 }
@@ -535,10 +535,10 @@ body.nav-active {
   color: #ffffff;
   font-size: var(--fs-6);
   font-weight: var(--fw-700);
-  border: 2px solid rgb(153, 92, 211);
+  border: 2px solid #7d84ff;
   padding: 12px 28px;
   border-radius: var(--radius-8);
-  background: rgb(153, 92, 211);
+  background: #7d84ff;
   width: 260px;
   transition: var(--transition-1);
   will-change: transform;
@@ -550,7 +550,7 @@ body.nav-active {
 
 .offers_tab .btn-offer:is(:hover, :focus-visible) {
   background: #ffffff;
-  color: rgb(144, 83, 202);
+  color: #7d84ff;
 }
 .offer_next {
   padding-inline: 30px;
@@ -575,7 +575,7 @@ body.nav-active {
   color: #333333;
 }
 .span_wrapper span {
-  color: #9053ca;
+  color: #7d84ff;
   font-weight: 600;
 }
 .offer_links_part {
@@ -629,7 +629,7 @@ body.nav-active {
 .icon_all .icon_color {
   transition: color 0.3s ease-in-out;
 
-  color: #b157c4;
+  color: #7d84ff;
 }
 
 .item_back {
@@ -650,7 +650,7 @@ body.nav-active {
 }
 
 .hover_all:hover {
-  background-color: rgb(144, 83, 202);
+  background-color: #7d84ff;
   /* #5e47ac; */
 }
 
@@ -795,10 +795,10 @@ body.nav-active {
   color: #ffffff;
   font-size: var(--fs-6);
   font-weight: var(--fw-700);
-  border: 2px solid #9053ca;
+  border: 2px solid #7d84ff;
   padding: 12px 28px;
   border-radius: var(--radius-8);
-  background: #9053ca;
+  background: #7d84ff;
   width: 260px;
   transition: var(--transition-1);
   will-change: transform;
@@ -810,7 +810,7 @@ body.nav-active {
 
 .button_item:is(:hover, :focus-visible) {
   background: #ffffff;
-  color: #9053ca;
+  color: #7d84ff;
 }
 
 /* ===================================================== */
@@ -831,7 +831,7 @@ body.nav-active {
 }
 
 .des_text {
-  color: #9053ca;
+  color: #7d84ff;
   font-size: 1.34rem;
   text-align: center;
   padding-top: 11px;
@@ -860,7 +860,7 @@ body.nav-active {
 .work_hover_wrapper:hover .fa-link,
 .work_hover_wrapper:hover .fa-camera {
   background: #ffffff;
-  color: #9053ca;
+  color: #7d84ff;
 }
 
 .des_item:hover .work_hover_wrapper {
@@ -875,7 +875,7 @@ body.nav-active {
   left: 0;
   width: 100%;
   height: 100%;
-  background: linear-gradient(45deg, #9053ca, #b072d9, #b482cc);
+  background: linear-gradient(45deg, #7d84ff, #5a60e6,  #a0a6ff );
   opacity: 0;
   transition: opacity 0.5s ease-out;
   z-index: 1;
@@ -905,11 +905,11 @@ body.nav-active {
 
 .work_btn .btn_center {
   text-align: center;
-  background-color: #9053ca;
+  background-color: #7d84ff;
   width: 170px;
   align-items: center;
   /* margin-left: 500px; */
-  border: 1px solid #9053ca;
+  border: 1px solid #7d84ff;
   border-radius: 23px;
   padding: 5px 15px 5px 15px;
   transition: background-color 0.3s ease;
